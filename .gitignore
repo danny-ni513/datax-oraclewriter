@@ -1,0 +1,8 @@
+/target/
+/.idea/
+/oraclewriter/target/
+/oraclewriter/oraclewriter.iml
+/plugin-rdbms-util/target/
+/plugin-rdbms-util/plugin-rdbms-util.iml
+/common/target/
+/common/datax-common.iml

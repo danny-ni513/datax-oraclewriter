@@ -1,0 +1,19 @@
+{
+    "name": "oraclewithseqwriter",
+    "parameter": {
+        "username": "",
+        "password": "",
+        "sequence": {
+            "name": "",
+            "index": 0
+        },
+        "column": [],
+        "preSql": [],
+        "connection": [
+            {
+                "jdbcUrl": "",
+                "table": []
+            }
+        ]
+    }
+}
